@@ -1,0 +1,8 @@
+pyhidra>=1.4
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+
+# GNN stage
+torch>=2.1
+torch-geometric>=2.5

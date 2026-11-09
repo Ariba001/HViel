@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+graph_cache/
+*.gpr
+*.rep/
+.DS_Store
